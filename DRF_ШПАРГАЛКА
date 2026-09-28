@@ -1,0 +1,14 @@
+is_valid() -> Текшеруу
+save() -> Сактоо
+data -> Обьект
+
+C -> Create -> POST -> Маалымат кошуу
+R -> Read -> GET -> Маалымат коруу
+U -> Update -> PUT(PATCH) -> Маалыматка озгортуу киргизуу
+D -> Delete -> DELETE -> Маалымат очуруу
+
+
+serializer -> Маалыматты JSON форматка откоруу
+APIView -> API тузуу
+all() -> Баардык обьект менен иштоо
+Response -> Json форматта жооп берет
